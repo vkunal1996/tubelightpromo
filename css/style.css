@@ -1,0 +1,132 @@
+#mainDivision
+{
+    width:1320px;
+    height:1740px;
+    margin:auto;
+    border-style: solid;
+    background-image: url(images/main.jpg);
+    background-attachment: fixed;
+}
+
+#header
+{
+    text-align: center;
+    font-family:monospace;
+    font-size: 30px;
+    color:goldenrod;
+}
+#Eid
+{
+    height:940px;
+}
+#EidHeading
+{
+    color:goldenrod;
+    font-family: sans-serif;
+}
+#EidImage
+{
+    width:800px;
+    height:600px;
+    border-style: inset;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+}
+#EidContent
+{
+    font-size: 25px;
+    color:#4a148c;
+}
+#sidebarleft
+{
+    width:170px;
+    height:500px;
+    float:left;
+}
+#mainContent
+{
+    width:1320px;
+    height:500px;
+}
+#sidebarright
+{
+    width:170px;
+    height:500px;
+    float:right;
+}
+#mainimage
+{
+    width:960px;
+    border-style: solid;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    margin:auto;
+}
+#director
+{
+    color:deeppink;
+    font-family: fantasy;
+    font-size: 20px;
+}
+#director a:link
+{
+    color:deeppink;
+    font-family: fantasy;
+    font-size: 20px;
+    text-decoration: none;
+}
+#director a:alink
+{
+    color:deeppink;
+    font-family: fantasy;
+    font-size: 20px;
+}
+#director a:vlink
+{
+    color:deeppink;
+    font-family: fantasy;
+    font-size: 20px;
+}
+#director a:hover
+{
+    color:hotpink:
+    font-family: fantasy;
+    font-size: 25px;
+}
+
+
+#director1
+{
+    color:darkblue;
+    font-family: fantasy;
+    font-size: 20px;
+}
+#director1 a:link
+{
+    color:deeppink;
+    font-family: fantasy;
+    font-size: 20px;
+    text-decoration: none;
+}
+#director1 a:alink
+{
+    color:deeppink;
+    font-family: fantasy;
+    font-size: 20px;
+}
+#director1 a:vlink
+{
+    color:deeppink;
+    font-family: fantasy;
+    font-size: 20px;
+}
+#director1 a:hover
+{
+    color:hotpink:
+    font-family: fantasy;
+    font-size: 25px;
+}
